@@ -1,0 +1,16 @@
+changer name et symbol "LP token" sur RP1/RocketPropellant.sol
+deployer contract Factory
+recuperer initcodehash to Library (deja fait)
+deployer WBNB
+recup addr Factory
+deployer Router
+
+deployer RP1
+recup address RP1
+deployer  Fuelbar 
+recup Fuelbar addr
+deployer Master
+recup Master address
+deployer vault
+
+
